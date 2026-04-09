@@ -11,7 +11,7 @@ By the end, you will:
 - Share your project with others
 
 ### 🧩 Starter Code
- - `v15_demoy.py`
+ - `main.py`
   
 ## 📝 Tasks
 -  ✅ 1. Create a Virtual Environment (Using UV) and Activate it.
