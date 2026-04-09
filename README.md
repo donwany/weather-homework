@@ -1,4 +1,4 @@
-## 📘 Homework: Build & Publish a Python Weather CLI App
+## 📘 Homework: Build & Publish a Python Weather App
 
 ### 🎯 Objective
  In this assignment, you will take a simple Python weather application and turn it into a real-world, installable Python package that others can use.
@@ -14,7 +14,7 @@ By the end, you will:
  - `v15_demoy.py`
   
 ## 📝 Tasks
--  ✅ 1. Create a Virtual Environment (Using UV)
+-  ✅ 1. Create a Virtual Environment (Using UV) and Activate it.
 -  🔑 2. Get API Key & Use .env
 -  🏗️ 3. Structure Your Project Properly
 -  📦 4. Build Your Package (.whl)
